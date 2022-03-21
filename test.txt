@@ -1,0 +1,71 @@
+Cc: sharmalalita2666@gmail.com, mayank1@unthinkable.co
+Subject: Daily Status Report For 16 March 2022
+From: dikshant.mali@unthinkable.co
+Content-Type: text/html; charset="utf8"
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My DSR</title>
+    <style>
+        #mydsr {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #mydsr td, #mydsr th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+   
+  #mydsr tr:hover {background-color: #ddd;}
+  
+  #mydsr th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+  }
+    </style>
+</head>
+
+<body>
+    
+    <h3 style="color: greenyellow;">Hello Deepak,</h3>
+    Please find the daily status report for 16 march 2022.
+    <br><br>
+
+<table id="mydsr">
+    <tr>
+      <th>Company</th>
+      <th>Contact</th>
+      <th>Country</th>
+    </tr>
+    <tr>
+      <td>Ernst Handel</td>
+      <td>Roland Mendel</td>
+      <td>Austria</td>
+    </tr>
+    <tr>
+      <td>Island Trading</td>
+      <td>Helen Bennett</td>
+      <td>UK</td>
+    </tr>
+    <tr>
+      <td>Königlich</td>
+      <td>Philip Cramer</td>
+      <td>Germany</td>
+    </tr>
+  </table>
+    <br><br>
+    Thanks And Regards<br>
+    Dikshant Mali<br>
+    APS-31149<br>
+</body>
+</html>
