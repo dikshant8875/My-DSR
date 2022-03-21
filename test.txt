@@ -36,20 +36,32 @@ Content-Type: text/html; charset="utf8"
 
 <body>
     
-    <h3 style="color: greenyellow;">Hello Deepak,</h3>
-    Please find the daily status report for 21 march 2022.
+    <h2 style="color: greenyellow;">Hello Deepak,</h2>
+    Please find the daily status report for <span style="color:salmon;">21 march 2022.</span>
     <br><br>
 
 <table id="mydsr">
     <tr>
-      <th>Company</th>
-      <th>Contact</th>
-      <th>Country</th>
+      <th>Task Description</th>
+      <th>Status</th>
+      <th>Completion(%)</th>
     </tr>
     <tr>
-      <td>Ernst Handel</td>
-      <td>Roland Mendel</td>
-      <td>Austria</td>
+      <td>Deployed python flask web application to EC2 using Nginx reverse proxy</td>
+      <td>Done</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Installed Mongodb on my ubuntu system and did changed 
+      the default dbpath and run simple commands like show dbs, use db etc.</td>
+      <td>Done</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Configured ipbind in mongod.conf file. Working fine with 0.0.0.0(for all ip) but 
+      failing for specific public ip</td>
+      <td>Done</td>
+      <td>100%</td>
     </tr>
     
   </table>
