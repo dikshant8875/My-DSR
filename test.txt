@@ -1,5 +1,6 @@
+To: dikshantmali.dev@gmail.com
 Cc: dkfiverr.dev@gmail.com, dikshantmali43@gmail.com
-Subject: Daily Status Report For testing March 2022
+Subject: Daily Status Report For testing-twice March 2022
 From: Dikshant Mali
 Content-Type: text/html; charset="utf8"
 
@@ -37,7 +38,7 @@ Content-Type: text/html; charset="utf8"
 
 <body>
     
-    <h2 style="color: greenyellow;">Hello Deepak,</h2>
+    <h2 style="color: greenyellow;">Hello Dikshant,</h2>
     Please find the daily status report for <span style="color:salmon;">21 march 2022.</span>
     <br><br>
 
