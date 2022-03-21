@@ -1,4 +1,6 @@
-Subject: Daily Status Report For 52 March 2022
+To: dikshantmali.dev@gmail.com
+Cc: dkfiverr.dev@gmail.com, dikshantmali43@gmail.com
+Subject: Daily Status Report For 21 March 2022
 From: Dikshant Mali
 Content-Type: text/html; charset="utf8"
 
@@ -36,8 +38,8 @@ Content-Type: text/html; charset="utf8"
 
 <body>
     
-    <h2 style="color: greenyellow;">Hello Deepak,</h2>
-    Please find the daily status report for <span style="color:salmon;">21 march 2022.</span>
+    <h2 style="color: greenyellow;font-weight:bold;">Hello Deepak,</h2>
+    Please find the daily status report for <span style="color:salmon; font-weight:bold;">21 march 2022.</span>
     <br><br>
 
 <table id="mydsr">
@@ -47,19 +49,19 @@ Content-Type: text/html; charset="utf8"
       <th>Completion(%)</th>
     </tr>
     <tr>
-      <td>Deployed python flask web application to EC2 using Nginx reverse proxy</td>
+      <td>Attended evening session on aws cloud overview</td>
       <td>Done</td>
       <td>100%</td>
     </tr>
     <tr>
-      <td>Installed Mongodb on my ubuntu system and did changed 
-      the default dbpath and run simple commands like show dbs, use db etc.</td>
+      <td>Completed automatic DSR mail on github push with webhooks and jenkins. 
+      </td>
       <td>Done</td>
       <td>100%</td>
     </tr>
     <tr>
-      <td>Configured ipbind in mongod.conf file. Working fine with 0.0.0.0(for all ip) but 
-      failing for specific public ip</td>
+      <td>Configured jenkins with slack notification. On successful job, abort job and for many instances the notification will
+      be sent to the slack specified channel</td>
       <td>Done</td>
       <td>100%</td>
     </tr>
