@@ -1,5 +1,5 @@
-Cc: sharmalalita2666@gmail.com, mayank1@unthinkable.co
-Subject: Daily Status Report For 16 March 2022
+Cc: mayank1@unthinkable.co
+Subject: Daily Status Report For 17 March 2022
 From: dikshant.mali@unthinkable.co
 Content-Type: text/html; charset="utf8"
 
@@ -52,16 +52,7 @@ Content-Type: text/html; charset="utf8"
       <td>Roland Mendel</td>
       <td>Austria</td>
     </tr>
-    <tr>
-      <td>Island Trading</td>
-      <td>Helen Bennett</td>
-      <td>UK</td>
-    </tr>
-    <tr>
-      <td>Königlich</td>
-      <td>Philip Cramer</td>
-      <td>Germany</td>
-    </tr>
+    
   </table>
     <br><br>
     Thanks And Regards<br>
