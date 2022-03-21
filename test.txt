@@ -1,5 +1,5 @@
-To: dikshantmali.dev@gmail.com
-Cc: dkfiverr.dev@gmail.com, dikshantmali43@gmail.com
+To: deepak.verma@unthinkable.co
+Cc: training@unthinkable.co, devopsadmin@daffodilsw.com
 Subject: Daily Status Report For 21 March 2022
 From: Dikshant Mali
 Content-Type: text/html; charset="utf8"
