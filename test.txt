@@ -38,8 +38,9 @@ Content-Type: text/html; charset="utf8"
 
 <body>
     
-    <h2 style="color: greenyellow;font-weight:bold;">Hello Deepak,</h2>
-    Please find the daily status report for <span style="color:salmon; font-weight:bold;">21 march 2022.</span>
+    <h2 style="color: greenyellow;">Hello Deepak,</h2>
+    Please find the daily status report for <span style="color:salmon;">21 march 2022.</span>
+
     <br><br>
 
 <table id="mydsr">
