@@ -1,6 +1,6 @@
-Cc: mayank1@unthinkable.co
-Subject: Daily Status Report For 17 March 2022
-From: dikshant.mali@unthinkable.co
+Cc: sharmalalita2666@unthinkable.co
+Subject: Daily Status Report For 31 March 2022
+From: Dikshant Mali
 Content-Type: text/html; charset="utf8"
 
 
@@ -38,7 +38,7 @@ Content-Type: text/html; charset="utf8"
 <body>
     
     <h3 style="color: greenyellow;">Hello Deepak,</h3>
-    Please find the daily status report for 16 march 2022.
+    Please find the daily status report for 21 march 2022.
     <br><br>
 
 <table id="mydsr">
